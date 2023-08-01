@@ -1,6 +1,7 @@
 
 # Visualize Data with a Scatterplot Graph
-
+![Screenshot](screenshot.jpg)
+[Live site](https://aneal07.github.io/Visualize-Data-with-a-Scatterplot-Graph/)
 ## Overview
 This project is a visual representation of cycling data using a scatterplot graph. The scatterplot graph is a type of plot using Cartesian coordinates to display values for two variables from a set of data. This project is built with D3.js, a JavaScript library for producing dynamic and interactive data visualizations in web browsers.
 
